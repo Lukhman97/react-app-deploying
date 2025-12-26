@@ -1,5 +1,5 @@
 import Sample from "./Components/Sample"
-import { Sundri } from "./components/sundri"
+import { Sundri } from "./Components/Sundri"
 
 
 function App() {
