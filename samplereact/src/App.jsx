@@ -1,4 +1,5 @@
 import Sample from "./Components/Sample"
+import { Sundri } from "./components/sundri"
 
 
 function App() {
@@ -10,6 +11,7 @@ function App() {
       <Sample />
       <Sample />
       <Sample />
+      <Sundri />
     </>
   )
 }
